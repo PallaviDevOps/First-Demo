@@ -4,7 +4,7 @@
 
   <groupId>Devops.Tutorial.Package</groupId>
   <artifactId>First-Demo</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>First-Demo</name>
